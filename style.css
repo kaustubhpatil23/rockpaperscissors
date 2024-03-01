@@ -75,17 +75,18 @@
     }
   
     img {
+      
       height: 90px;
       width: 90px;
     }
   
     .choices {
-      flex-direction: column;
+      flex-direction: row;
       gap: 2rem;
     }
   
     .score-board {
-      flex-direction: column;
+      flex-direction: row;
       gap: 2rem;
     }
   
